@@ -1,0 +1,14 @@
+{
+    "entryPoint": "./server.ts",
+    "cwd": "./",
+    "excludes": [
+      "./README.md"
+    ],
+    "runtimeOptions": [
+      "--allow-net",
+      "--allow-read",
+      "--allow-write",
+      "--allow-plugin",
+      "--unstable"
+    ]
+  }
